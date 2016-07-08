@@ -1,0 +1,6 @@
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\bin\Debug\PlayPoker.exe.config
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\obj\Debug\PlayPoker.csprojResolveAssemblyReference.cache
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\bin\Debug\PlayPoker.exe
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\bin\Debug\PlayPoker.pdb
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\obj\Debug\PlayPoker.exe
+c:\users\v-laugon\documents\visual studio 2015\Projects\PlayPoker\PlayPoker\obj\Debug\PlayPoker.pdb
